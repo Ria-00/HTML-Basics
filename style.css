@@ -1,0 +1,56 @@
+table{
+    background-color: black;
+}
+td {
+    border: none;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+/* 
+.t1 {
+    text-align: center;
+    background-color: blue;
+    color: black;
+    border-color: aliceblue;
+    border-width: 2px;
+    border-style: initial;
+}
+
+.t2 {
+    text-align: center;
+    background-color: lightgreen;
+    color: black;
+    border-width: 2px;
+}
+
+.t3 {
+    text-align: center;
+    background-color: peachpuff;
+    color: black;
+    border-width: 2px;
+}
+
+.t4 {
+    text-align: center;
+    background-color: rgb(183, 10, 10);
+    color: black;
+    border-width: 2px;
+    color: aliceblue;
+}
+
+.t5 {
+    text-align: center;
+    background-color: rgb(70, 27, 162);
+    color: black;
+    border-width: 2px;
+}
+
+.t6 {
+    text-align: center;
+    background-color: purple;
+    color: black;
+    border-width: 2px;
+    color: aliceblue;
+}
+ */
